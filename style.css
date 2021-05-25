@@ -24,10 +24,10 @@ a:hover{
 }
 
 .intro{
+  padding-top: 50px;
   display: flex;
   color: rgb(44, 44, 145);
   background-color: azure;
-  height: 100vh;
 }
 @media only screen and (max-width: 1024px) {
   .intro{
