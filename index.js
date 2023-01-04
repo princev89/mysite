@@ -28,3 +28,4 @@ function changemode(){
 		isDark = true;
 	}
 }
+
