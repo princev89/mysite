@@ -1,99 +1,13 @@
-/* body{
-	margin: 0;
-  padding: 0;
-  background-color: #edf9fe;
-}
-.text{
-  font-size: 20px;
-  font-weight: bolder;
-  padding: 5px 20px;
-  line-height: 30px;
-  font-family: 'Poppins';
-}
-.text h1{
-  line-height: 40px;
-}
-.about{
-  color: rgb(44, 42, 42);
-  font-weight: 400;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.tagline{
-  font-style: italic;
-  letter-spacing: 2px;
-}
-.social-account{
-  margin-top: 20px;
-
-  display: flex;
-  justify-content: space-evenly;
+html {
+  scroll-behavior: smooth;
 }
 
-
-.intro{
-  display: flex;
-  color: rgb(6, 6, 72);
-  
-}
-.card{
-  font-size: 22px;
-  padding: 40px;
-  margin: 24px 30px;
-  transition: box-shadow 0.5s;
-  border-radius: 5px;
-  -webkit-box-shadow: 0 0 30px rgb(14, 11, 11);
-        box-shadow: 0 0 30px #000;
-}
-.card:hover{
-  
-  -webkit-box-shadow: 0 0 2px rgb(14, 11, 11);
-  box-shadow: 0 0 2px #000;
-}
-.social-account img{
-  width: 100px;
-  height: 60px;
-}
-@media only screen and (max-width: 1024px) {
-  .intro{
-    display: block;
-  }
-  .profile{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  }
-  .card{
-    font-size: 18px;
-    line-height: 22px;
-    -webkit-box-shadow: 0 0 6px rgb(14, 11, 11);
-        box-shadow: 0 0 6px #000;
-  
-  }
-  
+#section1 {
+  height: 600px;
+  background-color: pink;
 }
 
-
-
-.card h3{
-  color: #011d56;
-  font-family: 'Source Sans Pro', sans-serif;
-  text-align: center;
-  font-weight: bold;
+#section2 {
+  height: 600px;
+  background-color: yellow;
 }
-.card h4{
-  color: #3f3f3f;
-  text-align: center;
-  font-weight: 600;
-}
-
-
-.tagline{
-  color: #011d56;
-  font-weight: 600;
-}
-
- */
-
-
- 
